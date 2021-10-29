@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
     "request": "^2.88.2"
